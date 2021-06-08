@@ -1,0 +1,2 @@
+set(IMGUI_INCLUDE_DIR ${CMAKE_SOURCE_DIR}/external/Eigen)
+set(EIGEN_LIBRARIES eigen)
